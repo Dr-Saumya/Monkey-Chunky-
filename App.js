@@ -87,6 +87,7 @@ const styles = StyleSheet.create({
     height: 40,
     textAlign: 'center',
     borderWidth: 4,
+    borderRadius: 20,
     outline: 'none',
   },
   goButton: {
@@ -95,6 +96,7 @@ const styles = StyleSheet.create({
     alignSelf: 'center',
     padding: 10,
     margin: 10,
+    backgroundColor: 'grey',
   },
   buttonText: {
     textAlign: 'center',
